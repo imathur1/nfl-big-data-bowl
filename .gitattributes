@@ -1,4 +1,0 @@
-tracking* filter=lfs diff=lfs merge=lfs -text
-tracking2018.csv filter=lfs diff=lfs merge=lfs -text
-tracking2019.csv filter=lfs diff=lfs merge=lfs -text
-tracking2020.csv filter=lfs diff=lfs merge=lfs -text
