@@ -1,4 +1,4 @@
-# expected-return-yards
+# NFL Big Data Bowl 2022
 
 My submission for the [NFL Big Data Bowl 2022](https://www.kaggle.com/c/nfl-big-data-bowl-2022) competition. I built a model that
 uses NFL kickoff data to predict the kick returner's expected return yards. A lot of inspiration was taken from the 
